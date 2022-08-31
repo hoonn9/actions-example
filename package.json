@@ -1,0 +1,18 @@
+{
+  "name": "actions-example",
+  "version": "1.0.0",
+  "description": "github actions example",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "hxxns <hxxns99@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "jest": {
+    "testEnvironment": "jest-environment-node"
+  },
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}
